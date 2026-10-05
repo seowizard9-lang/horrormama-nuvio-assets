@@ -1,0 +1,11 @@
+PLACE THE MAIN HORROR MAMA COLLECTION ARTWORK IN THIS FOLDER.
+
+Required filenames:
+
+  horrormama-cover.png     Portrait cover   PNG   1000 x 1500 px (2:3)
+  horrormama-backdrop.jpg  Backdrop         JPG   1920 x 1080 px (16:9)
+
+Rules:
+  - Lowercase filenames with hyphens, no spaces.
+  - Original artwork only. No copyrighted movie poster images.
+  - Delete this file once the final artwork is in place (optional).
